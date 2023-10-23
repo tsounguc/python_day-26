@@ -1,1 +1,12 @@
 # new_numbers = [new_item for item in list]
+
+# Practice
+numbers = [1,2,3]
+
+new_numbers = [n + 1 for n in numbers]
+
+name = "Angela"
+
+new_list = [letter for letter in name]
+
+double_numbers = [number * 2 for number in range(1,5)]
